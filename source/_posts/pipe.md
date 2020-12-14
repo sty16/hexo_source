@@ -26,7 +26,7 @@ ret 0 : SUCCESS
 
 函数调用成功返回read/write两个文件描述符，无需open，需要手动close。
 
-![img](F:\workspace\hexo\source\img\20161223173958916.jpg)
+![img](https://i.loli.net/2020/12/14/DyFH2peimEcnjMf.png)
 
 + 父进程调用pipe函数创建管道，得到两个文件描述符fd[0]、fd[1]指向管道的读端和写端
 

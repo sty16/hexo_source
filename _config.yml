@@ -4,7 +4,7 @@
 
 # Site
 title: TYS的博客
-subtitle: ' TYS的博客'
+subtitle: 算法小白努力学习中
 description: ''
 keywords:
 author: tys
@@ -16,7 +16,7 @@ menu:
   categories: /categories
   archives: /archives
   tags: /tags
-  
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: http://abeltian.top
@@ -104,7 +104,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: pure
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
