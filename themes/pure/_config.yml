@@ -90,7 +90,7 @@ donate:
     title: 微信支付
   # 支付宝打赏
   alipay: 
-    qrcode: images/donate/alipayimg.jpg 
+    qrcode: images/donate/alipayimg.jpg
     title: 支付宝
 
 # Share
@@ -186,20 +186,20 @@ profile:
   enabled: true # Whether to show profile bar
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: tys
-  author_title: 蒟蒻算法小白
+  author: 昵称
+  author_title: Web Developer & Designer
   author_description: 个人简介。
-  location: Beijing, China
-  follow: https://github.com/sty16
+  location: Shenzhen, China
+  follow: https://github.com/cofess
   # Social Links
   social:
     links:
-      github: https://github.com/sty16
-      # weibo: http://weibo.com/cofess
-      # twitter: https://twitter.com/iwebued
+      github: https://github.com/cofess
+      weibo: http://weibo.com/cofess
+      twitter: https://twitter.com/iwebued
       # facebook: /
       # dribbble: /
-      # behance: https://www.behance.net/cofess
+      behance: https://www.behance.net/cofess
       rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
@@ -213,23 +213,24 @@ profile:
     平面设计: ★★★☆☆
   # My Personal Links
   links:
-    Github: https://github.com/sty16
-    # Blog: http://blog.cofess.com
-    # 微博: http://weibo.com/cofess
-    # 花瓣: http://huaban.com/cofess
-    # Behance: https://www.behance.net/cofess
+    Github: https://github.com/cofess
+    Blog: http://blog.cofess.com
+    微博: http://weibo.com/cofess
+    花瓣: http://huaban.com/cofess
+    Behance: https://www.behance.net/cofess
   # My Personal Labels
   labels:
-    - 后端开发
+    - 前端
+    - 前端开发
+    - 前端重构
+    - Web前端
+    - 网页重构
   # My Personal Works
   works:
     name:
-      link: http://www.abeltian.top
+      link: http://www.example.com
       date: 2016
   # My Personal Projects
   projects:
-
-  mathjax:
-  enable: true
-  per_page: true
-  cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
+    cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
+    cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
