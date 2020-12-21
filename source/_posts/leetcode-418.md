@@ -1,5 +1,5 @@
 ---
-title: leetcode 418 屏幕可现实句子的数量
+title: leetcode 418 屏幕可显示句子的数量
 date: 2020-12-20 20:46:39
 tags: Data Structure
 categories: Data Structure
